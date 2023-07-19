@@ -21,7 +21,7 @@ function App() {
         <nav className="navbar navbar-expand-lg bg-body-tertiary d-flex justify-content-center align-items-center mt-4 mb-3">
           <ul className='navbar-nav'>
             <li>
-              <Link to='/' className='navbar-brand '>User Contact Directory</Link>
+              <Link to='/' className='navbar-brand '>User Contact Directory - modified</Link>
             </li>
             {/* <li className='nav-item' >
               <Link to="/" className='nav-link active'>Home</Link>
